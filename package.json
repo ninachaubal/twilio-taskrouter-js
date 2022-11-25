@@ -1,6 +1,6 @@
 {
   "name": "twilio-taskrouter-js",
-  "version": "1.1.1",
+  "version": "1.21.0",
   "description": "Twilio Taskrouter client JS packaged for npm",
   "repository": {
     "type": "git",
